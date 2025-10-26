@@ -46,18 +46,16 @@ A React-based app where students can access notes for programming languages and 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajcm17&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajcm17&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rajcm17&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savitha1234567&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savitha1234567&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Savitha1234567&theme=radical)
 
 ---
 ## 📈 Contribution Graphs
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=
-Savitha1234567&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Savitha1234567&bg_color=0d1117&color=58a6ff&line=9e4c98&point=ffffff&area=true&hide_border=true)  
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=
-Savitha1234567&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savitha1234567&theme=radical)
 
 ---
 
