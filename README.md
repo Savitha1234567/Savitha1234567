@@ -38,7 +38,7 @@ A React-based app where students can access notes for programming languages and 
 
 ## 🎯 Goals (2026)
 
-- Master Data Structures and Algorithms
+- Master in Data Analytics and 
 - Build and host a polished developer portfolio
 - Land a high-paying role in a product-based tech company
 
